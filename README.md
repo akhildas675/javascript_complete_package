@@ -15,7 +15,7 @@ Hi there! Thanks for stopping by. This space is where I share everything I’ve 
 🚀 I created this to help others and keep track of my learning journey — and it’s still growing!
 
 📦 Explore the full package here:
-https://wooded-kumquat-725.notion.site/JavaScript-ca9ee1ec25e146708ad4acf815f51ec0
+https://wooded-kumquat-725.notion.site/JavaScript-ca9ee1ec25e146708ad4acf815f51ec0 
 
 
 
@@ -23,23 +23,6 @@ https://wooded-kumquat-725.notion.site/JavaScript-ca9ee1ec25e146708ad4acf815f51e
 
 # JavaScript Interview Questions & Answers
 
-> 
-
----
-
-
-
-
----
-
-
-
-
----
-
-
-
----
 
 ### Table of Contents
 
