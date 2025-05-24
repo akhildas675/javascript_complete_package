@@ -1521,7 +1521,7 @@ https://wooded-kumquat-725.notion.site/JavaScript-ca9ee1ec25e146708ad4acf815f51e
 
     The action flow of a promise will be as below,
 
-    ![Screenshot](images/promise.png)
+    ![Screenshot](/assets/images/promises.png)
 
     **[⬆ Back to Top](#table-of-contents)**
 
